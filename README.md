@@ -1,12 +1,12 @@
 <header>
 
-# Hello GitHub Actions
+# Hello GitHub Actions 🎬
 
 _Create and run a GitHub Actions workflow._
 
 </header>
 
-## Step 2: Add a job to your workflow file
+## Step 2: Add a job to your workflow file 🗃️
 
 _Nice work! :tada: You added a workflow file!_
 
